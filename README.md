@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esayas</h1>
 <h3 align="center">A passionate Software Engineering student from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/823822df4639299e2725baf47d3601944c93d8c36c3f3d12b3153095573a9f70/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e676966">
+<div style="border-radius: 50px;"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" ></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isa1asn&label=Profile%20views&color=0e75b6&style=flat" alt="isa1asn" /> </p>
 
