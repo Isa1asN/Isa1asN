@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **esayasnigusie2@gmail.com**
 
-- ⚡ Fun fact **I look pretty serious, and I think I am.**
+- ⚡ Fun fact **I'm an introvert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
