@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isa1asn&show_icons=true&locale=en&layout=compact" alt="isa1asn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isa1asn&show_icons=true&locale=en" alt="isa1asn" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isa1asn&" alt="isa1asn" /></p>
