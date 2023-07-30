@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **esayasnigusie2@gmail.com**
 
-- ⚡ Fun fact **I wanna become Master of the git Force, merging branches like a Jedi, lol.**
+- ⚡ Fun fact **I use white IDE. Just kidding :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
