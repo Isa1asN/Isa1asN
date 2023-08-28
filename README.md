@@ -10,13 +10,12 @@
 
 - 🔭 I’m currently working on **ExpressJS**
 
-- 🌱 I’m currently learning **ML Algorithms, React, Django, Flutter, OpenGL**
+- 🌱 I’m currently learning **ML Algorithms, Streamlit, BeautifulSoup **
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
 - 📫 How to reach me **esayasnigusie2@gmail.com**
 
-- ⚡ Fun fact **I use white IDE. Just kidding :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
