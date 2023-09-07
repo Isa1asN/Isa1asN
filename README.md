@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ExpressJS**
 
-- 🌱 I’m currently learning **ML Algorithms, Streamlit, BeautifulSoup **
+- 🌱 I’m currently learning **ML Algorithms & BeautifulSoup **
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
