@@ -15,7 +15,6 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 📫 How to reach me **esayasnigusie2@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
