@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Esayas;&center=true&size=30">
   </a>
 </h1>
-<h4 align="center">As a student software engineer, I am constantly working hard to create innovative solutions that make a real impact.
+<h4>As a student software engineer, I am constantly working hard to create innovative solutions that make a real impact.
  With a passion for problem-solving and love of technology, I am always eager to learn new skills and take on new challenges.</h3>
 <!-- <div style="border-radius: 50px;"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" ></div> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isa1asn&label=Profile%20views&color=0e75b6&style=flat" alt="isa1asn" /> </p>
 
-- 🔭 I’m currently working on **ExpressJS**
+- 🔭 I’m currently working on **Personal projects**
 
 - 🌱 I’m currently learning **ML Algorithms & BeautifulSoup **
 
