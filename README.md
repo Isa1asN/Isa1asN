@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
   
-- 👨‍💻 You can check out my website 👉 esayasn.dev
+- 👨‍💻 You can check out my website here 👉 www.esayasn.dev
 
 
 
