@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **ML Algorithms & BeautifulSoup **
+- 🌱 I’m currently learning **Machine Learning, Robotics, Social network analysis and more **
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
   
