@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Robotics, Social network analysis and more **
 
-- 👯 I’m looking to collaborate on **MERN Stack, Django & React projects**
+- 👯 I’m looking to collaborate on **MERN Stack, Django & React Native projects**
   
 - 👨‍💻 You can check out my website here 👉 www.esayasn.dev
 
