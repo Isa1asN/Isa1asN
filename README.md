@@ -16,6 +16,8 @@
 - 👯 I’m looking to collaborate on **MERN Stack, Django, React Native, ML/DL and AI projects**
 
 - Checkout my portfolio at https://www.esayasn.dev/
+
+- Contact email esayasnigusie2@gmail.com
   
 
 <h3 align="left">Tech Stack:</h3>
