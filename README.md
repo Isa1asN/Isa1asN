@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning NLP & RL 
 
 - 👯 I’m looking to collaborate on **MERN Stack, Django, React Native, ML/DL and AI projects**
+
+- Checkout my portfolio at https://www.esayasn.dev/
   
 
 <h3 align="left">Tech Stack:</h3>
