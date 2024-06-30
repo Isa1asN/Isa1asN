@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isa1asn&label=Profile%20views&color=0e75b6&style=flat" alt="isa1asn" /> </p>
 
-- 🔭 I’m currently working on **Personnal projects**
+- 🔭 I’m currently working on **Client projects**
 
 - 🌱 I’m currently learning NLP & RL 
 
