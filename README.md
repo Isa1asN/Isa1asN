@@ -1,5 +1,5 @@
 <h1>
-  Greetings!👋 The name's Esayas.
+  Greetings!👋 I'm Esayas.
 </h1>
 <p>As a software engineer, I'm constantly working hard to create innovative solutions that make a real impact.
  With a passion for AI and love of technology, I'm always eager to learn new skills and take on new challenges.</p>
