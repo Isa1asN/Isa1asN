@@ -8,7 +8,9 @@
 
 - 👩🏻‍💻 I’m learning RL
 
-- 🌐 Checkout https://www.esayasn.dev/
+- 🌱 I'm passionate about AI
+
+- 🌐 Checkout https://esayas.me/
 
 - 📧 You can contact me at esayasnigusie2@gmail.com
   
