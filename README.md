@@ -4,17 +4,6 @@
 <p>As a software engineer, I'm constantly working hard to create innovative solutions that make a real impact.
  With a passion for AI and love of technology, I'm always eager to learn new skills and take on new challenges.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isa1asn&label=Profile%20views&color=0e75b6&style=flat" alt="isa1asn" /> </p>
-
-- 👩🏻‍💻 I’m learning RL
-
-- 🌱 I'm passionate about AI
-
-- 🌐 Checkout https://esayas.me/
-
-- 📧 You can contact me at esayasnigusie2@gmail.com
-  
-
 <h3 align="left"> Some of my skills:</h3>
 <div >
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
