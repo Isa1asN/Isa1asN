@@ -1,4 +1,4 @@
-<h1>
+<p>
   Greetings!👋 I'm Esayas.
-</h1>
+</p>
 <p>I'm a dedicated software engineer passionate about AI, continuously learning new skills and tackling fresh challenges.</p>
